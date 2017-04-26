@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAndInstanceConstructors", "StaticAndInstanceConstructors\StaticAndInstanceConstructors.csproj", "{B77C7FD3-3184-4603-AD37-83CABD63BA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationExperiments", "EncapsulationExperiments\EncapsulationExperiments.csproj", "{132A0427-E6D2-4552-954D-AF2FDD4686FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77C7FD3-3184-4603-AD37-83CABD63BA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77C7FD3-3184-4603-AD37-83CABD63BA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77C7FD3-3184-4603-AD37-83CABD63BA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77C7FD3-3184-4603-AD37-83CABD63BA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132A0427-E6D2-4552-954D-AF2FDD4686FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132A0427-E6D2-4552-954D-AF2FDD4686FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132A0427-E6D2-4552-954D-AF2FDD4686FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132A0427-E6D2-4552-954D-AF2FDD4686FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
